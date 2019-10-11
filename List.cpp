@@ -1,4 +1,4 @@
-          //////*Program to create a List*////////
+          //////*Program to create a List*/////////
 #include<iostream>
 using namespace std;
 #include "Node.cpp"
