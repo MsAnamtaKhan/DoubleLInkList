@@ -1,4 +1,4 @@
-  //Program to create double linked list///////
+////////Program to create double linked list///////
 #include<iostream>
 using namespace std;
 //Node class
